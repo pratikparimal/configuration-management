@@ -1,0 +1,3 @@
+limit-service:
+  maximum: 7777
+  minimum: 77
